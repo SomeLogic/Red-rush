@@ -1,0 +1,3 @@
+﻿  Level.cpp
+c:\users\robert szczepański\source\repos\jipp project\jipp project\level.cpp(578): warning C4244: 'argument': conversion from 'int' to 'float32', possible loss of data
+  JIPP Project.vcxproj -> C:\Users\Robert Szczepański\source\repos\JIPP Project\x64\Debug\JIPP Project.exe
