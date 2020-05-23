@@ -1,6 +1,5 @@
 # Red rush
-Game created using SFML and Box2D. It is not finished, still work in progress.
-![Gameplay1](https://i.imgur.com/cDJC78M.png)
-![Gameplay2](https://imgur.com/meoshTR.png)
-![Gameplay3](https://imgur.com/0Uky4dd.png)
-![Game over](https://imgur.com/Plgtdyy.png)
+Game created using SFML and Box2D. Player can collect coins, avoid spikes and rotating saws.
+![Gameplay1](Hnet-image.gif)
+
+Box2D is used to simulate physics similiar to real world. SFML is used to display graphics, play music and catch keyboard events. These two libraries are independent to each other and it needed to be connected.
